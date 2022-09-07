@@ -1,4 +1,4 @@
-firt : Run A Terminal 
+ Run A Terminal 
 apt-get update
 apt-get upgrade
 
